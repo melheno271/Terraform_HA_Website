@@ -1,4 +1,4 @@
-# Terraform Highly Available Website
+# Highly available website in multiple AZs using ALB and ASG
 
 VPC (2 public subnets, 2 private subnets, IGW, Rout table),
 Security Groups,
